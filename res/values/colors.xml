@@ -102,7 +102,7 @@
     <color name="secondary_text_color">@color/dialtacts_secondary_text_color</color>
 
     <!-- Text color for section header. -->
-    <color name="section_header_text_color">@color/dialtacts_theme_color</color>
+    <color name="section_header_text_color">@color/primary_text_color</color>
 
     <!-- Color of the theme of the People app -->
     <color name="people_app_theme_color">#363636</color>
@@ -256,4 +256,5 @@
     <!-- Highlight color used in places such as ripples -->
     <color name="control_highlight_color">#1A000000</color>
 
+    <color name="ic_contacts_launcher_background">#2458CA</color>
 </resources>
